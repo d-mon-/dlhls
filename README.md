@@ -5,7 +5,11 @@ Small script to download m3u8 stream via CLI
 - Allow to restart from the last progress
 - use file stream or fetch
 - concurrent calls
-  = more
+- more
+
+  
+
+https://github.com/user-attachments/assets/ec574342-1d49-488b-82fc-cbeedb04993d
 
 ## Setup
 
